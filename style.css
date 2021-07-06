@@ -1,0 +1,56 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+    margin-left: 5%;
+}
+h3{
+    text-align: center;
+}
+p{
+    margin-left: 10%;
+}
+.color-change{
+    color: brown;
+}
+.container{
+    display: flex;
+    margin:10%;
+    padding-left: 10%;
+    padding-right: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 10px;
+    color: darkgoldenrod;
+    border-radius: 10px;
+}
+.decoration{
+    width: 50%;
+    padding-right: 5%;
+}
+.bg-add{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+     background-position: right;
+}
+.food-item{
+    width: 20%;
+    display: flex;
+    margin-left: 10%;
+    padding: 25px;
+}
+.recipe{
+text-align: center;
+}
+#recipe-list{
+   border-right:5px;
+   margin: 2%;
+}
+footer p{
+    text-align: center;
+    color: yellowgreen;
+}
