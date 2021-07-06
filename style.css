@@ -19,7 +19,7 @@ p{
     display: flex;
     margin:10%;
     padding-left: 10%;
-    padding-right: 30px;
+    padding-right: 30px; 
 }
 .link-button{
     text-decoration: none;
@@ -32,10 +32,12 @@ p{
     width: 50%;
     padding-right: 5%;
 }
-.bg-add{
-    background-image: url(images/exp-bg.png);
+.style{
+    border-radius: 10 px solid;
+    background-color:rosybrown;
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-     background-position: right;
+    background-position: right;
 }
 .food-item{
     width: 20%;
