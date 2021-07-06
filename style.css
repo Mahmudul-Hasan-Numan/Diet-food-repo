@@ -10,14 +10,14 @@ h3{
     text-align: center;
 }
 p{
-    margin-left: 10%;
+    margin-left:2%;
 }
 .color-change{
     color: brown;
 }
 .container{
     display: flex;
-    margin:10%;
+    margin-top:5%;
     padding-left: 10%;
     padding-right: 30px; 
 }
@@ -47,12 +47,15 @@ p{
 }
 .recipe{
 text-align: center;
+margin-left:15%;
+margin-right: 15%;
 }
-#recipe-list{
-   border-right:5px;
-   margin: 2%;
+.arrangement{
+    display:flex;
+    box-shadow: 10px 10px 100px seagreen;
+    padding: 10px;
 }
 footer p{
     text-align: center;
-    color: yellowgreen;
+    color: brown;
 }
